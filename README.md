@@ -9,13 +9,14 @@
 - C
 - C++
 - Golang
+- Perl
 
 <br>
 
 ## Optional
 
-- Swift
 - R
+- Swift
 - Kotlin
 
 <br>
