@@ -32,10 +32,11 @@ You should Learn / Know as a hacker
 
 <details>
   <summary>Modern Web Frameworks and Lightweight JavaScript Libraries</summary>
-  
+
+- jQuery
 - React JS
 - Node JS
-- Vue JS
 - Angular JS
+- Vue JS
   
 </detials>
